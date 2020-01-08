@@ -1,0 +1,9 @@
+<resources>
+    <!-- Tela de Login -->
+    <string name="app_name">Sistema de Automação</string>
+    <string name="app_subName">NodeSA</string>
+    <string name="app_versao">Versão: 1.0.0.1</string>
+    <string name="app_acessar">Acessar</string>
+    <string name="app_email">Email</string>
+    <string name="app_senha">Senha</string>
+</resources>
